@@ -24,10 +24,6 @@
   - INEP
   - OpenDataSUS
 
-### Deploy
-- Front-end: [Vercel](https://vercel.com/)
-- Back-end + banco: [Railway](https://railway.app/) ou [Render](https://render.com/)
-
 ---
 
 ## 🎯 Objetivos do Projeto
@@ -35,7 +31,7 @@
 - Tornar dados públicos mais acessíveis e compreensíveis
 - Criar uma ferramenta útil para professores, jornalistas e estudantes
 - Explorar visualizações interativas com filtros dinâmicos
-- Servir como projeto de aprendizado em front-end e back-end
+- Servir como projeto de aprendizado
 
 ---
 
@@ -57,8 +53,4 @@
 - Professores e pesquisadores
 - Estudantes
 - Cidadãos interessados em dados abertos
-
----
-
-## 🧩 Estrutura de Pastas
 
